@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 1612-FF20
+
+ Directory of D:\gb\GIT
+
+19-03-2019  07:55    <DIR>          .
+19-03-2019  07:55    <DIR>          ..
+19-03-2019  07:55                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  99,193,430,016 bytes free
